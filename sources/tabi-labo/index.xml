@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>猫ニュースまとめ | 話題のネコ画像や情報をまとめてチェック！ </title>
+    <link>http://news.neko.yogurt.blue/sources/tabi-labo/</link>
+    <description>Recent content in TABI LABO on 猫ニュースまとめ | 話題のネコ画像や情報をまとめてチェック！</description>
+    
+    <language>ja-JP</language>
+    
+    
+    <rights>(C) 2016</rights>
+    <updated>2016-06-26 21:50:24 &#43;0000 UTC</updated>
+    
+    <lastBuildDate>Sun, 26 Jun 2016 21:50:24 +0000</lastBuildDate>
+    
+    <docs>http://news.neko.yogurt.blue/sources/tabi-labo/index.xml</docs>
+    <atom:link href="http://news.neko.yogurt.blue/sources/tabi-labo/index.xml" rel="self" type="application/rss+xml" />
+
+    
+      
+        <item>
+          <title>ただの猫カフェ？ノンノン。気に入った子は引き取れちゃいます</title>
+          <link>http://news.neko.yogurt.blue/post/tadanonekokafenonnonkiniitsutakohahikitorechaimasu/</link>
+          <pubDate>Sun, 26 Jun 2016 21:50:24 UTC</pubDate>
+          
+          <guid>http://news.neko.yogurt.blue/post/tadanonekokafenonnonkiniitsutakohahikitorechaimasu/</guid>
+          <description></description>
+        </item>
+      
+    
+      
+        <item>
+          <title>美しい庭に寝そべる「巨大なネコ」。じつはコレ・・・</title>
+          <link>http://news.neko.yogurt.blue/post/20160614/tabi-labo.com/265885/the-topiary-cat/</link>
+          <pubDate>Tue, 14 Jun 2016 13:00:10 UTC</pubDate>
+          
+          <guid>http://news.neko.yogurt.blue/post/20160614/tabi-labo.com/265885/the-topiary-cat/</guid>
+          <description></description>
+        </item>
+      
+    
+
+  </channel>
+</rss>
